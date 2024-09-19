@@ -20,9 +20,9 @@ public class ContadorLetraA {
 
     public void exibirResultado(int ocorrencias) {
         if (ocorrencias > 0) {
-            System.out.println("A letra 'a' aparece " + ocorrencias + " vez(es) na palavra.");
+            System.out.println("A letra 'a' aparece " + ocorrencias + " vez(es) na palavra ou frase.");
         } else {
-            System.out.println("A letra 'a' não aparece na palavra.");
+            System.out.println("A letra 'a' não aparece na palavra ou frase.");
         }
     }
 }
