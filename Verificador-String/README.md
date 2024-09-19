@@ -13,6 +13,5 @@ Este programa verifica a existência da letra 'a' (maiúscula ou minúscula) em 
 
 1. **Clone o repositório** ou faça o download do código-fonte.
 
-   ```bash
-   git clone https://github.com/seuusuario/verificador-letra-a-poo.git
+   
 
